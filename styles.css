@@ -16,7 +16,7 @@
 .calculator-grid {
     width: 22%;
     display: grid;
-    grid-template-columns: 80px 80px 80px 80px;
+    grid-template-columns: 25% 25% 25% 25%;
     background-color: #2196F3;
     padding-top: 10px;
      border-bottom-left-radius: 5%;
