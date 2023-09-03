@@ -1,6 +1,10 @@
 const buttons = document.querySelectorAll('.button-item');
 
+
+
+
 for (let button of buttons) {
+
     button.addEventListener('click', (e) => {
             const instruction = e.target.innerText;
 
