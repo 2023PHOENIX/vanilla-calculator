@@ -70,3 +70,16 @@
         background-color: #657298;
     color: white;
 }
+
+
+@media screen and (max-width: 720px){
+    .calculator{
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .calculator{
+        width: 100%;
+    }
+}
